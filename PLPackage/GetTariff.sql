@@ -8,7 +8,7 @@
        m5 decimal(11,5),
        m6 decimal(11,5),
        prim decimal(11,5));
-*/
+*/ 
     TYPE sRecordx IS RECORD(
         priceId VARCHAR2(15),
        m1 decimal(15,5),
